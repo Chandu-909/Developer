@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural blueprint and implementation plan for the Minimalist Developer Blog Website, featuring a pure monochrome editorial design, markdown-driven post pipeline, syntax highlighting, global Cmd+K search, table of contents, reading time calculation, and in-browser draft editor.",
+  "updatedAt":  "2026-10-24T13:23:04.604023725Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Minimalist Developer Blog",
+  "description": "A distraction-free, typography-focused personal developer blog and portfolio with Markdown support, code syntax highlighting, and live search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
